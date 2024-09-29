@@ -1,4 +1,4 @@
-# 🌌 Interactive Orrery Web App
+Skibidy# 🌌 Interactive Orrery Web App
 
 Welcome to the Interactive Orrery Web App, a project developed for the NASA Space Apps Challenge! This web application visualizes celestial bodies in our solar system, including planets, Near-Earth Asteroids (NEAs), Near-Earth Comets (NECs), and Potentially Hazardous Asteroids (PHAs).
 
